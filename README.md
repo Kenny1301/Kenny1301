@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Aleksandr.
-- 👀 I’m interested in Web Dev, Mobile Dev.
+- 👋 Hi,
+- 👀 I’m interested in
 - 🌱 I’m currently learning Web Dev, JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
